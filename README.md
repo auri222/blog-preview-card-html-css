@@ -89,5 +89,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@auri222](https://www.frontendmentor.io/profile/auri222)
 
