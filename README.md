@@ -39,7 +39,7 @@ _3. Mobile display_
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [Blog preview card page](https://your-live-site-url.com)
+- Live Site URL: [Blog preview card page](https://auri222.github.io/blog-preview-card-html-css/)
 
 ## My process
 
@@ -79,15 +79,16 @@ _3. Mobile display_
 </div>
 ```
 
-- How to use a variable font in CSS
+- How to use a static font in CSS
 
 ```css
 @font-face {
   font-family: 'Figtree';
   font-weight: 500 800;
-  src: url('/assets/fonts/Figtree-VariableFont_wght.ttf') format("truetype-variations");
+  src: url('./assets/fonts/Figtree-VariableFont_wght.ttf') format("truetype-variations");
 }
 ```
+> Here I faced an error when I published the page on Github, which couldn't load the static font. Mostly when I was setting @font-face. The  CSS code above is correct.
 
 ### Continued development
 
