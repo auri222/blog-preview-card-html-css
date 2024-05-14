@@ -10,7 +10,7 @@
 @font-face {
   font-family: 'Figtree';
   font-weight: 500 800;
-  src: url('/assets/fonts/Figtree-VariableFont_wght.ttf') format("truetype-variations");
+  src: url('/assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
 }
 
 * {
@@ -43,6 +43,7 @@ p, span{
   box-shadow: 8px 8px 2px 1px var(--Black);
   border: 1px solid var(--Black);
   border-radius: 12px;
+  cursor: pointer;
   display: flex;
   flex-direction: column;
   gap: 18px;
@@ -79,10 +80,9 @@ h4.card-title {
   font-size: 20px;
   color: var(--Black);
   font-weight: 800;
-  cursor: pointer;
 }
 
-h4.card-title:hover {
+.card:hover h4.card-title {
   color: var(--Yellow);
 }
 

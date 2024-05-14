@@ -23,12 +23,23 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- ![](./screenshot.jpg) -->
+_1. Desktop display_
+
+![](./assets/images/Blog_preview_card_desktop_view.png)
+
+_2. Desktop hover stage display_
+
+![](./assets/images/Blog_preview_card_desktop_hover.png)
+_It doesn't show the mouse pointer :<_
+
+_3. Mobile display_
+
+![](./assets/images/Blog_preview_card_mobile_view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [Blog preview card page](https://your-live-site-url.com)
 
 ## My process
 
@@ -84,7 +95,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Self-hosting fonts explained (including Google fonts) // @font-face tutorial by Kevin Powell's Youtube channel](https://www.youtube.com/watch?v=zK-yy6C2Nck) - This helped me understand how to use a variable font in CSS.
+- [Self-hosting fonts explained (including Google fonts) // @font-face tutorial by Kevin Powell's Youtube channel](https://www.youtube.com/watch?v=zK-yy6C2Nck) - This helped me understand how to use self-hosting fonts for a better performance.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - This taught me how to use border and box-shadow properties in CSS. 
 
 ## Author
